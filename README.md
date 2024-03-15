@@ -9,7 +9,7 @@
  - feature/trello-123 - ветка для разработки нового функционала;
  - fix/trello-123 - ветка для исправление ошибок.
 
-**Пример настроек Git:** [git_config.txt](https://github.com/cheremisam/sf_project2/git_config.txt)
+**Пример настроек Git:** [git_config.txt](https://github.com/cheremisam/sf_project2/blob/main/git_config.txt)
 
 **Пример по работе над новой задачей:**
  1. Переключаемся в ветку main: git switch main
